@@ -8,7 +8,7 @@ output: html_document
 
 # Overview
 
-This R Markdown document reproduces the simulation setup and implementation of constraint-aware transfer learning (CATL) for compositional data in both binomial and Gaussian settings. Users can run the code chunk by chunk or knit the full document after placing all required source files and `.RData` files in the working directory.
+This R Markdown document reproduces the simulation setup and implementation of constraint-aware transfer learning (CATL) for compositional data in both binomial and Gaussian settings. The `.RData` files in this repository contain target microbial effects used in simulation. Users can run the code chunk by chunk or knit the full document after installing packages and putting `.RData` files in the working directory.
 
 # Required files
 
